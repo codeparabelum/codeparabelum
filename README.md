@@ -36,3 +36,14 @@
     <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"/>
   </a>
 </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+
+ 
