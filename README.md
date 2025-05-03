@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Arthur S. Wrasse</h1>
+arabel<h1 align="center">Olá! 👋 Eu sou Arthur S. Wrasse</h1>
 
 <p align="center">
   Front-End developer, fascinated by technology and innovation.<br/>
@@ -44,6 +44,6 @@
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/codeparabelum/snake.yml/blob/output/github-contribution-grid-snake.svg)
 
  
