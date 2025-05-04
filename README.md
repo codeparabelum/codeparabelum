@@ -44,6 +44,5 @@ arabel<h1 align="center">Olá! 👋 Eu sou Arthur S. Wrasse</h1>
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-![snake gif](https://github.com/codeparabelum/README.md/blob/output/github-contribution-grid-snake.svg)
 
  
