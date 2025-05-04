@@ -1,4 +1,4 @@
-arabel<h1 align="center">Olá! 👋 Eu sou Arthur S. Wrasse</h1>
+<h1 align="center">Olá! 👋 Eu sou Arthur S. Wrasse</h1>
 
 <p align="center">
   Front-End developer, fascinated by technology and innovation.<br/>
