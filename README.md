@@ -1,11 +1,15 @@
 <h1 align="center">Olá! 👋 Eu sou Arthur S. Wrasse</h1>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,js,html,css,mysql,git,python,react,panda" />
+  </a>
+</p> 
 <p align="center">
   Front-End developer, fascinated by technology and innovation.<br/>
   🔧 Always exploring new tools and solutions.
 </p>
 
----
+--- 
 
 ### 📊 Estatísticas do GitHub
 
@@ -43,7 +47,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link rel="stylesheet" href="style.css"/>
 </head>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sql,git,react,node,python)](https://skillicons.dev)
 <body>
-
+  
  
