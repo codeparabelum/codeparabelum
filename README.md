@@ -11,7 +11,7 @@
 
 --- 
 
-### 📊 Estatísticas do GitHub
+<p align="center">Estatísticas do GitHub</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeparabelum&show_icons=true&theme=dracula" alt="GitHub Stats"/>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+<p align="center">🌐 Conecte-se comigo</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/arthurwarssecodemind" target="_blank">
