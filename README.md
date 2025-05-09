@@ -23,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeparabelum&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeparabelum&theme=dracula" alt="GitHub Streak"/>
-</p>
-
 ---
 
 <p align="center">🌐 Conecte-se comigo</p>
