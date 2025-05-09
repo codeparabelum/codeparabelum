@@ -31,7 +31,7 @@
   <a href="https://linkedin.com/in/arthurwarssecodemind" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="arthurswprofissional@gmail.com">
+  <a href="mailto:arthurswprofissional@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
    <a href="https://github.com/codeparabelum">
