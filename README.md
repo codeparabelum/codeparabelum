@@ -24,7 +24,7 @@
 <p align="center">🌐 Conecte-se comigo</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arthurwarssecodemind" target="_blank">
+  <a href="https://linkedin.com/in/arthurwrassecodemind" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:arthurswprofissional@gmail.com">
